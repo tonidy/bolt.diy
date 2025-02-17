@@ -94,5 +94,5 @@ ENV GROQ_API_KEY=${GROQ_API_KEY} \
 RUN mkdir -p ${WORKDIR}/run
 CMD pnpm run dev --host
 
-# triggers
+# trigger
 
